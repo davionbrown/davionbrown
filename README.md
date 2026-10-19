@@ -12,24 +12,7 @@ I use GitHub to document my hands-on projects, technical troubleshooting, and pr
 
 ## 🖥️ Featured IT Projects
 
-### 1. Azure Network Protocol Analysis
-
-**Technologies:** Microsoft Azure, Windows, Wireshark, TCP/IP
-
-Built a hands-on networking lab using Microsoft Azure virtual machines and Wireshark to examine how devices communicate across networks.
-
-**What I practiced:**
-- Capturing and analyzing ICMP, SSH, DHCP, DNS, and RDP traffic
-- Understanding how common networking protocols function
-- Inspecting network packets using Wireshark
-- Connecting networking theory to observed network traffic
-- Developing familiarity with cloud-based networking environments
-
-**Skills developed:** Network protocols, packet analysis, Wireshark, Azure, and networking fundamentals.
-
-🔗 [View Azure Network Protocol Analysis Project](https://github.com/davionbrown/azure-network-protocol-analysis)
-
-### 2. osTicket Help Desk Administration & Ticket Lifecycle Lab
+### 1. osTicket Help Desk Administration & Ticket Lifecycle Lab
 
 **Technologies:** Microsoft Azure, Windows, osTicket, IIS, PHP, MySQL, HeidiSQL
 
@@ -38,23 +21,36 @@ Built and configured an Azure-hosted osTicket training environment to practice h
 **What I practiced:**
 - Installing and configuring a help desk ticketing system
 - Managing support departments, agents, roles, and teams
-- Configuring service-level agreements (SLAs)
+- Configuring service-level agreements (SLAs) and help topics
 - Creating, assigning, escalating, and closing simulated support tickets
-- Investigating department-based authorization restrictions
-- Documenting troubleshooting plans and hypothetical incident resolutions
-- Reviewing ticket history and technician accountability
+- Investigating role-based access control (RBAC) and authorization issues
+- Documenting structured troubleshooting steps and simulated incident resolutions
+- Reviewing ticket audit trails and technician accountability
 
-**Independent scenario:**
+**Skills developed:** Help Desk Support, Incident Management, osTicket, Ticket Lifecycle Management, RBAC, Troubleshooting, and Technical Documentation.
 
-Created a fictional CFO laptop incident and documented a structured troubleshooting plan involving power indicators, charging connections, hardware isolation, and business-impact considerations.
+🔗 [View osTicket Help Desk Administration & Ticket Lifecycle Lab](https://github.com/davionbrown/osTicket-help-desk-lab)
 
-The documented repair outcome was simulated; no physical hardware repair was performed.
+---
 
-**Key lesson:** Authentication confirms who a user is, while authorization determines what resources and actions that user can access.
+### 2. Azure Network Protocol Analysis
 
-**Skills developed:** Ticket management, help desk administration, access control, incident documentation, and troubleshooting methodology.
+**Technologies:** Microsoft Azure, Windows 11, Ubuntu Linux, Wireshark, TCP/IP
 
-🔗 [View osTicket Help Desk Project](https://github.com/davionbrown/osTicket-help-desk-lab)
+Built a hands-on networking lab using Microsoft Azure virtual machines and Wireshark to examine how devices communicate across networks.
+
+**What I practiced:**
+- Deploying Windows 11 and Ubuntu virtual machines in Azure
+- Configuring Azure virtual networks and network security settings
+- Capturing and analyzing ICMP, SSH, DHCP, DNS, and RDP traffic
+- Inspecting network packets using Wireshark
+- Understanding how common networking protocols function
+- Connecting networking theory to observed network traffic
+- Developing familiarity with cloud-based networking environments
+
+**Skills developed:** Computer Networking, Network Protocols, Packet Analysis, Wireshark, Microsoft Azure, Linux, and Network Troubleshooting.
+
+🔗 [View Azure Network Protocol Analysis Lab](https://github.com/davionbrown/azure-network-protocol-analysis)
 
 ---
 
