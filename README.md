@@ -99,8 +99,7 @@ The documented repair outcome was simulated; no physical hardware repair was per
 
 I'm actively strengthening my technical knowledge through structured coursework and hands-on practice.
 
-Current areas of study include:
-
+**Current areas of study include:**
 - IT support and troubleshooting fundamentals
 - Computer hardware and operating systems
 - IPv4 addressing and network protocols
@@ -124,9 +123,7 @@ I'm working toward entry-level IT opportunities where I can apply my technical k
 - Junior Network Technician
 - Network Operations Center (NOC) Technician
 
-**Long-term interests:**
-
-Networking, systems administration, network operations, and cybersecurity.
+**Long-term interests:** Networking, systems administration, network operations, and cybersecurity.
 
 I plan to continue building my technical portfolio as I gain additional hands-on experience and progress through my IT studies.
 
