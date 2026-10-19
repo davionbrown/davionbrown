@@ -1,14 +1,12 @@
-# Hello World 🌍, I'm Davion! 👋
+# Hello World 🌎, I'm Davion! 👋
 
-### Aspiring IT Support Specialist | Help Desk | Networking | Cloud Fundamentals
+**Aspiring IT Support Specialist | Help Desk | Networking | Cloud Fundamentals**
 
-I'm an aspiring IT professional transitioning into the technology industry, with a focus on building practical skills in IT support, troubleshooting, networking, and systems administration.
+I'm an aspiring IT professional transitioning into technology, building hands-on skills in IT support, troubleshooting, networking, and systems administration through Calbright College, CourseCareers, and independent technical labs.
 
-I'm developing my technical foundation through **Calbright College, CourseCareers, independent study, and hands-on IT labs**.
+My goal is to begin my career in Help Desk, IT Support, or Junior Network Support while continuing to develop my expertise in networking, cloud technologies, and cybersecurity.
 
-My immediate goal is to begin my career in **Help Desk, IT Support, or Junior Network Support**, while continuing to develop the skills needed for future opportunities in networking, Network Operations Centers (NOCs), and cybersecurity.
-
-I use GitHub to document my technical projects, troubleshooting exercises, and progress toward a career in IT.
+I use GitHub to document my hands-on projects, technical troubleshooting, and professional development.
 
 ---
 
